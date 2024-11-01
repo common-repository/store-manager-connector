@@ -1,0 +1,152 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: eMagicOne Store Manager for WooCommerce\n"
+"POT-Creation-Date: 2017-02-10 13:37+0200\n"
+"PO-Revision-Date: 2017-02-10 13:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: smconnector.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: option.php:57
+msgid "Save Settings"
+msgstr ""
+
+#: option.php:76
+msgid "Access Settings"
+msgstr ""
+
+#: option.php:84
+msgid "Store Manager Connector Settings"
+msgstr ""
+
+#: option.php:92
+msgid "Login"
+msgstr ""
+
+#: option.php:101
+msgid "Password"
+msgstr ""
+
+#: option.php:110
+msgid "Directory for Module Operations"
+msgstr ""
+
+#: option.php:119
+msgid "Allow Compression"
+msgstr ""
+
+#: option.php:128
+msgid "Compress Level"
+msgstr ""
+
+#: option.php:137
+msgid "Limit Query Size"
+msgstr ""
+
+#: option.php:146
+msgid "Package Size"
+msgstr ""
+
+#: option.php:155
+msgid "Exclude Tables"
+msgstr ""
+
+#: option.php:164
+msgid "Allowed IPs"
+msgstr ""
+
+#: option.php:282
+msgid "Enter Store Manager Connector credentials below:"
+msgstr ""
+
+#: option.php:290
+msgid "Enter Store Manager Connector settings below:"
+msgstr ""
+
+#: option.php:303 option.php:325
+msgid "Default login is \"1\". Change it because of security reasons!"
+msgstr ""
+
+#: option.php:339
+msgid "Directory does not exist"
+msgstr ""
+
+#: option.php:341
+msgid "Set writing permissions for temporary directory"
+msgstr ""
+
+#: option.php:346
+msgid "Enter temporary folder path. It should be writable."
+msgstr ""
+
+#: option.php:364
+msgid ""
+"Compression of generated dump file. It is recommended for save space and "
+"faster getting data in Store\n"
+"            Manager."
+msgstr ""
+
+#: option.php:384
+msgid ""
+"Values between 1 and 9 will trade off speed and efficiency.\n"
+"             The 1 flag means fast but less efficient\" compression, and 9 "
+"means \"slow but most efficient\" compression."
+msgstr ""
+
+#: option.php:403
+msgid "Restrict capacity of queries per one request (kB)."
+msgstr ""
+
+#: option.php:421
+msgid "Size of parts for getting dump file (kB)."
+msgstr ""
+
+#: option.php:446
+msgid ""
+"Do not get data from tables selected here. Use this to reduce size of the "
+"data retrieved from module."
+msgstr ""
+
+#: option.php:460
+msgid ""
+"In order to allow module using only from specific IP address you should add "
+"IP address here\n"
+"            (for example, 48.78.88.98 - only one IP address; 48.78.88.98, "
+"15.25.35.45 - two IP addresses;\n"
+"            48.78.x.x - all IP addresses which begin from 48.78.)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "eMagicOne Store Manager for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://emagicone.com/shared_files/woo/store-manager-connector.zip"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Store Manager Connector is a plugin, intended to connect Store Manager "
+"software to your WooCommerce store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eMagicOne"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://emagicone.com/"
+msgstr ""
